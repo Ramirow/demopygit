@@ -1,0 +1,286 @@
+A bald baby laughs as he holds onto his mom's jacket.	the dad rocked the baby to sleep	0
+A bald baby laughs as he holds onto his mom's jacket.	the baby was laughing	1
+A large dog wards off a smaller dog.	A horse is eating grass.	0
+A large dog wards off a smaller dog.	a dog gnarls at another.	1
+Women holding a baby wearing a green shirt.	Woman is watching a baby crawl on the ground.	0
+Women holding a baby wearing a green shirt.	A baby is being carried by a woman.	1
+A baby in a green shirt is holding onto a shoulder.	a baby	1
+A baby in a green shirt is holding onto a shoulder.	a baby holding a kitchen knife	0
+Children are playing soccer on a rocky beach.	The children are sitting on a couch.	0
+Children are playing soccer on a rocky beach.	There are kids outdoors.	1
+A woman is singing in to a microphone.	A woman sings	1
+A woman is singing in to a microphone.	A woman sits quietly inside of her home	0
+Group of children playing soccer with body of water in the background.	The children are outside.	1
+Group of children playing soccer with body of water in the background.	There are children outside with a soccer ball.	1
+Group of children playing soccer with body of water in the background.	A group of children are near the water.	1
+Group of children playing soccer with body of water in the background.	The kids are in math class.	0
+Group of children playing soccer with body of water in the background.	The children are sleeping.	0
+Group of children playing soccer with body of water in the background.	The children are playing baseball.	0
+Group of children playing soccer with body of water in the background.	The children are playing football.	0
+Group of children playing soccer with body of water in the background.	Kids are playing soccer.	1
+Group of children playing soccer with body of water in the background.	Kids are playing soccer.	1
+Group of children playing soccer with body of water in the background.	A group of children are playing a board game at indoors.	0
+A group of young children kick around a ball on a field with a body of water in the background.	A group of young children egg a house and speed away on their bikes.	0
+A group of young children kick around a ball on a field with a body of water in the background.	A group of young children play ball in a field next to the lake.	1
+A group of young children kick around a ball on a field with a body of water in the background.	The kids are playing soccer.	1
+A group of young children kick around a ball on a field with a body of water in the background.	A group of kids playing a game together.	1
+A group of young children kick around a ball on a field with a body of water in the background.	The children are outside.	1
+A group of young children kick around a ball on a field with a body of water in the background.	A bunch of kids are playing with a ball	1
+A group of young children kick around a ball on a field with a body of water in the background.	The children are playing video games.	0
+A group of young children kick around a ball on a field with a body of water in the background.	A bunch of kids are swimming in a pool	0
+A group of young children kick around a ball on a field with a body of water in the background.	The water is close by.	0
+A group of young children kick around a ball on a field with a body of water in the background.	Kids playing lacrosse	0
+A number of children enjoy themselves on the coast of a city.	A number of chilfren enjoy themselves on the coast of a city	1
+A number of children enjoy themselves on the coast of a city.	The number of children were not having fun at all	0
+Some children are playing football with a seacoast in the background.	Children are hiking in the mountains.	0
+Some children are playing football with a seacoast in the background.	Children are playing a sport near the ocean.	1
+A couple hug each other and pose for the camera in front of a pond in the snow.	People are kissing.	0
+A couple hug each other and pose for the camera in front of a pond in the snow.	It is cold outside.	1
+BMX rider, riding downhill on forest path.	A unicycle rider in the city.	0
+BMX rider, riding downhill on forest path.	A bike rider in the forest.	1
+A young red-haired girl wants to see what comes after the clowns in the parade.	A girl is throwing up on the clowns at a parade.	0
+A young red-haired girl wants to see what comes after the clowns in the parade.	A girl is watching a parade.	1
+Two men, one playing a purple guitar and the other playing an accordion, sitting on stone steps.	Two adults holding musical instruments.	1
+Two men, one playing a purple guitar and the other playing an accordion, sitting on stone steps.	Two men are playing music outside.	1
+Two men, one playing a purple guitar and the other playing an accordion, sitting on stone steps.	Men are playing musical instruments.	1
+Two men, one playing a purple guitar and the other playing an accordion, sitting on stone steps.	seven men play football	0
+Two men, one playing a purple guitar and the other playing an accordion, sitting on stone steps.	Two men are standing on a hilltop.	0
+Two men, one playing a purple guitar and the other playing an accordion, sitting on stone steps.	Two men are playing volleyball in the park.	0
+Two men, one playing a purple guitar and the other playing an accordion, sitting on stone steps.	The men are dressed in overalls and digging a hole to China.	0
+Two men, one playing a purple guitar and the other playing an accordion, sitting on stone steps.	The friends are baking some pastries.	0
+Two men, one playing a purple guitar and the other playing an accordion, sitting on stone steps.	two men sit on steps	1
+Two men, one playing a purple guitar and the other playing an accordion, sitting on stone steps.	The men are playing instruments.	1
+Tourists pose for camera at night.	travellers pose for camera	1
+Tourists pose for camera at night.	man at work	0
+A man and woman standing next to each other in the snow by a lake.	A couple is sitting in the snow.	0
+A man and woman standing next to each other in the snow by a lake.	People are standing outside.	1
+Water splashes down as the awning is washed.	The owning is dry.	0
+Water splashes down as the awning is washed.	An awning is being cleaned.	1
+Some hospital employees reading books in a hallway.	A woman is washing dishes.	0
+Some hospital employees reading books in a hallway.	Employees are in the hallway.	1
+A man and a woman in wedding clothes look out toward the water.	The man is alone crying in the kitchen.	0
+A man and a woman in wedding clothes look out toward the water.	The man and woman have their eyes looking toward the water.	1
+a doctor and nurses in a hospital standing behind a cart	A doctor and some nurse standing in a hospital.	1
+a doctor and nurses in a hospital standing behind a cart	The doctor is pushing the cart.	0
+A woman holds a yellow stick and pokes the tarp over a floral display during a rainstorm, releasing large quantities of water to the ground.	the woman is actually climbing a mountain.	0
+A woman holds a yellow stick and pokes the tarp over a floral display during a rainstorm, releasing large quantities of water to the ground.	the woman is standing in the rain.	1
+An individual pushing rain off the tops of the canopy.	A person is folding up a fabric canopy.	0
+An individual pushing rain off the tops of the canopy.	A person is pushing rain off of a canopy.	1
+A woman in a long white bridal gown and a man in a black suit are standing at a rail looking at the ocean.	A couple in wedding outfits are looking at the ocean.	1
+A woman in a long white bridal gown and a man in a black suit are standing at a rail looking at the ocean.	Two kids are looking at the ocean.	0
+Two dogs are fighting and playing with each other while running through some grass.	Two dogs play in the grass.	1
+Two dogs are fighting and playing with each other while running through some grass.	Two dogs play on the couch.	0
+Two brown dogs with blue collars are running in the grass.	The dogs are sitting by the pond.	0
+Two brown dogs with blue collars are running in the grass.	There are dogs outdoors.	1
+four young adults in a busy city area.	These three are wearing hats	0
+four young adults in a busy city area.	These four are outdoors	1
+There are two brown dogs playing in field.	The field has animals in it.	1
+There are two brown dogs playing in field.	The dogs are sitting next to their owners.	0
+Four younger guys walking down the sidewalk looking at the camera.	adults walking and giving poses	1
+Four younger guys walking down the sidewalk looking at the camera.	adults are sitting on the road side and looking each other	0
+Four young men walking along a sidewalk.	Four men walking.	1
+Four young men walking along a sidewalk.	Four young women running down the street.	0
+Four teenagers dressed in black and white shirts and blue jeans walk down a sidewalk.	the teenagers are doing homework at their house	0
+Four teenagers dressed in black and white shirts and blue jeans walk down a sidewalk.	four teenagers are walking down a sidewalk	1
+Several youths in black and white shirts and blue jeans walk down a street.	Several youths are wearing clothes.	1
+Several youths in black and white shirts and blue jeans walk down a street.	The youths are only wearing swimsuits.	0
+Woman climbing an artificial rock wall.	A woman is climbing a rock wall inside a climbing gym.	1
+Woman climbing an artificial rock wall.	A woman is participating in exercise.	1
+Woman climbing an artificial rock wall.	A man is playing checkers.	0
+Woman climbing an artificial rock wall.	A woman is climbing up into a tree.	0
+Woman climbing an artificial rock wall.	A woman is bicycling through a field.	0
+Woman climbing an artificial rock wall.	People are ascending a climbing wall using grips for their hands and feet	1
+Woman climbing an artificial rock wall.	A women is exercising.	1
+Woman climbing an artificial rock wall.	A woman is bungee jumping.	0
+Woman climbing an artificial rock wall.	A woman is practicing on a rock climbing wall.	1
+Woman climbing an artificial rock wall.	A group of men are playing on an indoor climbing wall	0
+The girl is in a harness, climbing rocks.	A boy plays on the rocks.	0
+The girl is in a harness, climbing rocks.	A child is rock climbing.	1
+A woman in blue shorts and a white shirt is indoor rock climbing.	A lady is exercising indoors.	1
+A woman in blue shorts and a white shirt is indoor rock climbing.	A woman is wearing a harness.	1
+A woman in blue shorts and a white shirt is indoor rock climbing.	A woman watches while others rockclimb outside.	0
+A woman in blue shorts and a white shirt is indoor rock climbing.	A woman is climing a fake wall inside.	1
+A woman in blue shorts and a white shirt is indoor rock climbing.	a woman climbing a mountain outdoors	0
+A woman in blue shorts and a white shirt is indoor rock climbing.	A woman climbing	1
+A woman in blue shorts and a white shirt is indoor rock climbing.	A woman is playing tennis.	0
+A woman in blue shorts and a white shirt is indoor rock climbing.	A woman is at the movies.	0
+A woman in blue shorts and a white shirt is indoor rock climbing.	She is outdoors.	0
+A woman in blue shorts and a white shirt is indoor rock climbing.	A woman is rock climbing.	1
+a woman in a yellow shirt and green shorts is climbing an artificial red wall whilst wearing a safety harness.	The woman is climbing.	1
+a woman in a yellow shirt and green shorts is climbing an artificial red wall whilst wearing a safety harness.	a woman is climbing a wall using a safety harness	1
+a woman in a yellow shirt and green shorts is climbing an artificial red wall whilst wearing a safety harness.	A man attempts to climb a wall without a safety harness	0
+a woman in a yellow shirt and green shorts is climbing an artificial red wall whilst wearing a safety harness.	A woman in a safety harness is Spiderwoman the superhero.	0
+a woman in a yellow shirt and green shorts is climbing an artificial red wall whilst wearing a safety harness.	The woman is sleeping.	0
+a woman in a yellow shirt and green shorts is climbing an artificial red wall whilst wearing a safety harness.	A woman is rock climbing.	1
+a woman in a yellow shirt and green shorts is climbing an artificial red wall whilst wearing a safety harness.	The woman is using safety equipment.	1
+a woman in a yellow shirt and green shorts is climbing an artificial red wall whilst wearing a safety harness.	The woman is lifting weights.	0
+Two people on a rock looking at each other.	Two people look at each other	1
+Two people on a rock looking at each other.	Two people are at a movie theater.	0
+A busy operating room with high tech equipment to assist the doctors.	A judge and an accused are staring at each other.	0
+A busy operating room with high tech equipment to assist the doctors.	Equipment are lying in operating room	1
+The girl is climbing a rock wall.	A girl is rock climbing.	1
+The girl is climbing a rock wall.	A woman sits on the couch and watches TV	0
+A woman in an apron carries a styrofoam box of upside down ice cream cones.	A female is carrying a box.	1
+A woman in an apron carries a styrofoam box of upside down ice cream cones.	A contractor is eating a sandwich.	0
+Crowd standing outside a metro area.	A group of people out in the metropolis.	1
+Crowd standing outside a metro area.	The crowd is sitting in a field.	0
+Crowd standing outside a metro area.	Pedestrians wait at a taxi stand.	0
+Crowd standing outside a metro area.	A group of people have gathered.	1
+Crowd standing outside a metro area.	A group of people are assembled outside.	1
+Crowd standing outside a metro area.	A crowd waits for the city bus.	1
+Crowd standing outside a metro area.	The group are standing in a corn field in the country.	0
+Crowd standing outside a metro area.	Group of people walk down Main Street.	0
+Crowd standing outside a metro area.	There is a crowd standing outside.	1
+Crowd standing outside a metro area.	Metrosexuals sitting on the porch.	0
+young boy in orange sweatshirt on a log.	A young boy in an orange sweatshirt on a log outside.	1
+young boy in orange sweatshirt on a log.	A young boy in a blue sweatshirt sleeping on a deck.	0
+Boy in a black shirt standing in front of an advertisement.	The boy was wearing a black shirt.	1
+Boy in a black shirt standing in front of an advertisement.	The boy was at school.	0
+A graffiti artist paints over a poster on a brick wall.	A graffiti artist paints a poster.	1
+A graffiti artist paints over a poster on a brick wall.	A man is taking his dog on a walk	0
+A graffiti artist paints over a poster on a brick wall.	An artist is painting.	1
+A graffiti artist paints over a poster on a brick wall.	A graffiti artist rips a poster at an art contest.	0
+A graffiti artist paints over a poster on a brick wall.	A person is putting up posters on a wall.	0
+A graffiti artist paints over a poster on a brick wall.	A singer draws on a window in a brick wall.	0
+A graffiti artist paints over a poster on a brick wall.	A graffiti artist paints over something else.	1
+A graffiti artist paints over a poster on a brick wall.	A graffiti artist is paining over something on a brick wall.	1
+A graffiti artist paints over a poster on a brick wall.	A artist is using graffiti.	1
+A graffiti artist paints over a poster on a brick wall.	An artist is making a poster.	0
+A man in a white t-shirt looks toward the camera surrounded by a crowd near a metro station.	The man sees the camera.	1
+A man in a white t-shirt looks toward the camera surrounded by a crowd near a metro station.	the people are all holding picket signs.	0
+A man in a white t-shirt looks toward the camera surrounded by a crowd near a metro station.	The man is wearing a suit and tie.	0
+A man in a white t-shirt looks toward the camera surrounded by a crowd near a metro station.	There is a crowd at the station.	1
+A man in a white t-shirt looks toward the camera surrounded by a crowd near a metro station.	a group of people have gathered for a purpose.	1
+A man in a white t-shirt looks toward the camera surrounded by a crowd near a metro station.	A man in a train station looks at the camera.	1
+A man in a white t-shirt looks toward the camera surrounded by a crowd near a metro station.	The boy is playing basketball.	0
+A man in a white t-shirt looks toward the camera surrounded by a crowd near a metro station.	The man is having coffee at the shop.	0
+A man in a white t-shirt looks toward the camera surrounded by a crowd near a metro station.	A man is curious why the crowd is surrounding a camera.	1
+A man in a white t-shirt looks toward the camera surrounded by a crowd near a metro station.	A lady is posing for pictures.	0
+A young man is texting while standing in front of a poster.	A woman talks on the phone.	0
+A young man is texting while standing in front of a poster.	A man texts.	1
+A man in a green shirt is standing between two cars holding up 3 fingers.	A man is standing between bikes.	0
+A man in a green shirt is standing between two cars holding up 3 fingers.	A man is standing between cars.	1
+A dog is jumping in the air to catch an orange Frisbee.	A dog is outside playing.	1
+A dog is jumping in the air to catch an orange Frisbee.	The old man is reading the newspaper.	0
+A man in a green shirt hailing a taxi in a large city.	A man is skinny-dipping alone in a mountain stream.	0
+A man in a green shirt hailing a taxi in a large city.	A man wearing green clothing wants to go somewhere.	1
+a man is hailing a cab or giving a peace sign in a city	The man is showing his middle finger in the city.	0
+a man is hailing a cab or giving a peace sign in a city	The man is throwing up a peace sign.	1
+A dog catches a disk in the air.	A dog is eating kibble out of a red bowl.	0
+A dog catches a disk in the air.	An animal is jumping.	1
+A man in a green shirt hailing a cab.	A man is driving his own car.	0
+A man in a green shirt hailing a cab.	Man is getting a cab	1
+A boy and a girl wearing a blue jacket are having their own snowball fight.	The children pay in the mud.	0
+A boy and a girl wearing a blue jacket are having their own snowball fight.	A snowball fight is in progress.	1
+Kids play soccer outside.	Children are engaging in outdoor sports.	1
+Kids play soccer outside.	Kids sit at home and wonder if they'll ever get to enjoy outdoor sports.	0
+A group of guys playing soccer in a park with onlookers in pavilions behind them.	A group of guys are playing football in a bowling alley.	0
+A group of guys playing soccer in a park with onlookers in pavilions behind them.	Men are playing soccer in a park.	1
+People are playing soccer on the grass.	The people are playing basketball in doors.	0
+People are playing soccer on the grass.	The people are playing a sport.	1
+There are several young men kicking a ball around, with a pavilion behind them with people standing under them.	Several men are sleeping on a bed.	0
+There are several young men kicking a ball around, with a pavilion behind them with people standing under them.	 There are several young men kicking a ball around.	1
+Seven people playing soccer on a field, man in the blue shirt is about to kick the ball.	They are outside.	1
+Seven people playing soccer on a field, man in the blue shirt is about to kick the ball.	THey are playing basketball.	0
+two people are sitting on a rock looking at the horizon.	There are two people sitting outdoors.	1
+two people are sitting on a rock looking at the horizon.	There is a man watching his last sunrise alone while sitting on a rock.	0
+A woman laughing at a man.	A woman crying.	0
+A woman laughing at a man.	A woman laughing.	1
+The man in the black shirt made the lady laugh.	The man made a lady laugh.	1
+The man in the black shirt made the lady laugh.	The girl didn't like the joke.	0
+A girl in a black t-shirt laughs at a man in a black t-shirt who is telling a story.	He eats a pizza	0
+A girl in a black t-shirt laughs at a man in a black t-shirt who is telling a story.	The man tells a funny story	1
+A woman with a long ponytail and a man with short hair enjoy a laugh while eating dessert.	A woman and a man are eating dessert.	1
+A woman with a long ponytail and a man with short hair enjoy a laugh while eating dessert.	A young couple are walking their dog in the park.	0
+A man with a pen and paper checking stock.	A person is checking stock.	1
+A man with a pen and paper checking stock.	A man is driving his car in the rain.	0
+Young man jumping in the water over waves at beach.	Boy drowns	0
+Young man jumping in the water over waves at beach.	There is a boy outside	1
+A little girl is holding a colorful end war Ron Paul sign, some adults are also standing near her in the picture.	Adults stand near a child holding a political sign.	1
+A little girl is holding a colorful end war Ron Paul sign, some adults are also standing near her in the picture.	The little girl is holding a sign.	1
+A little girl is holding a colorful end war Ron Paul sign, some adults are also standing near her in the picture.	Everyone is playing poker in a smoke-filled room.	0
+A little girl is holding a colorful end war Ron Paul sign, some adults are also standing near her in the picture.	A girl holds a sign near adults.	1
+A little girl is holding a colorful end war Ron Paul sign, some adults are also standing near her in the picture.	A person holding a sign	1
+A little girl is holding a colorful end war Ron Paul sign, some adults are also standing near her in the picture.	The girl is near adults.	1
+A little girl is holding a colorful end war Ron Paul sign, some adults are also standing near her in the picture.	The little girl is riding a dolphin with her hands in the air.	0
+A little girl is holding a colorful end war Ron Paul sign, some adults are also standing near her in the picture.	A group of girls play together.	0
+A little girl is holding a colorful end war Ron Paul sign, some adults are also standing near her in the picture.	Nobody has a sign	0
+A little girl is holding a colorful end war Ron Paul sign, some adults are also standing near her in the picture.	A little girl holds a stuffed toy in both hands, while her mother holds a Ron  Paul sign.	0
+A young female child is holding a homemade sign that says End War, with Ron Paul written on the side.	A person holding a sign	1
+A young female child is holding a homemade sign that says End War, with Ron Paul written on the side.	Nobody has a sign	0
+A young girl in a pink and white sweater is holding a pro Ron Paul sign that reads "END WAR."	The girl is wearing pink.	1
+A young girl in a pink and white sweater is holding a pro Ron Paul sign that reads "END WAR."	The girl is asleep in her bed.	0
+A little girl holding a big sign that says "END WAR" and she's looking down at it.	The sign reads "peace".	0
+A little girl holding a big sign that says "END WAR" and she's looking down at it.	The young female is at a protest.	1
+A boy in a blue and red top is jumping into the ocean.	The boy is playing basketball.	0
+A boy in a blue and red top is jumping into the ocean.	The boy is outside.	1
+A blond girl sitting in a yellow chair texting.	The blonde girl is walking through the halls talking to her teacher.	0
+A blond girl sitting in a yellow chair texting.	The girls is sitting down while sending a text.	1
+There is a bunch of tourists standing around on the grass and looking at some old ruins.	humans outside	1
+There is a bunch of tourists standing around on the grass and looking at some old ruins.	a group of dogs playing	0
+A boy in rash guards and swim shoes runs into the water at a beach.	A boy is outside.	1
+A boy in rash guards and swim shoes runs into the water at a beach.	A boy is laying on the beach.	0
+Five black dogs run in a field.	No animals running.	0
+Five black dogs run in a field.	Some animals running.	1
+A blond in flip-flops and shorts is sitting on a yellow chair outside.	A blond in flip-flops and shorts is ice skating.	0
+A blond in flip-flops and shorts is sitting on a yellow chair outside.	A blond in flip-flops and shorts is sitting outdoors.	1
+The black dogs are running in a grassy field	The black dogs are sitting.	0
+The black dogs are running in a grassy field	The black dogs are in a grass field.	1
+A woman in an apron is carrying a tray of ice cream with cones on top.	A man is carrying ice cream sandwiches	0
+A woman in an apron is carrying a tray of ice cream with cones on top.	A woman is carrying ice cream cones	1
+A pack of black dogs running in grass.	The animals run around an indoor enclosure.	0
+A pack of black dogs running in grass.	The group of animals runs outside.	1
+Many black dogs run in a grassy area.	A group of dogs are playing.	1
+Many black dogs run in a grassy area.	Lots of dogs sleeping in a garage.	0
+A man is walking on the roof of a building under construction.	Man walking on a roof.	1
+A man is walking on the roof of a building under construction.	Man is snorkeling in the great barrier reef.	0
+A man wearing a black hat standing next to a black pole.	A guy in a hat is standing by a pole.	1
+A man wearing a black hat standing next to a black pole.	A man in a coat sits ontop of a fire hydrant.	0
+A man with a light colored shirt is lean against a post, looking at another person that is standing below him.	The man in shirt is leaning casually.	1
+A man with a light colored shirt is lean against a post, looking at another person that is standing below him.	The man is walking down the street.	0
+A man unlocks a blue garage door.	A man unlocks a door.	1
+A man unlocks a blue garage door.	A woman calls the cops when someone breaks into her house.	0
+A man bending to pick something up.	A man is picking something up.	1
+A man bending to pick something up.	A woman is bending to pick something up.	0
+A man appears to be closing a gate next to a nail-gloss ad.	Car parks with gate on top	0
+A man appears to be closing a gate next to a nail-gloss ad.	A man is closing his gate after parking his car	1
+A man in a blue shirt locks a blue shutter next to a nail polish advertisement.	The man is wearing cloths.	1
+A man in a blue shirt locks a blue shutter next to a nail polish advertisement.	The water in the fountain had all dried up.	0
+A man raising or lowering a blue and red garage door next to a nail polish poster.	A garage door is moving	1
+A man raising or lowering a blue and red garage door next to a nail polish poster.	The garage door is broken	0
+The children in blue are singing for a group of people.	Adults are singing while a group of children dressed in red listen.	0
+The children in blue are singing for a group of people.	There are people singing.	1
+Several adults are tending their children outside on a sunny day.	The adults do not have children.	0
+Several adults are tending their children outside on a sunny day.	The adults have children.	1
+A group of children, boys and girls, dressed in blue choir robes are standing in front of an audience.	two boys preach to a group of sheep	0
+A group of children, boys and girls, dressed in blue choir robes are standing in front of an audience.	some kids in choir robes stand near other people	1
+A group of young children wearing blue robes are standing in front of a crowd with their hands interlaced.	The children are sleeping.	0
+A group of young children wearing blue robes are standing in front of a crowd with their hands interlaced.	A group of adults sing to the crowd.	0
+A group of young children wearing blue robes are standing in front of a crowd with their hands interlaced.	the children are at home sleeping	0
+A group of young children wearing blue robes are standing in front of a crowd with their hands interlaced.	some chilldren standing	1
+A group of young children wearing blue robes are standing in front of a crowd with their hands interlaced.	A group of children play tag outside.	0
+A group of young children wearing blue robes are standing in front of a crowd with their hands interlaced.	The crowd can see the children.	1
+A group of young children wearing blue robes are standing in front of a crowd with their hands interlaced.	A group of children stand in front of a group of people.	1
+A group of young children wearing blue robes are standing in front of a crowd with their hands interlaced.	Children are holding hands.	1
+A group of young children wearing blue robes are standing in front of a crowd with their hands interlaced.	A group of children stand in front of a crowd	1
+A group of young children wearing blue robes are standing in front of a crowd with their hands interlaced.	Children are swimming.	0
+Two men standing outside wearing jackets and caps.	Two men are outdoors.	1
+Two men standing outside wearing jackets and caps.	Two men are swimming.	0
+Two men dressed jackets and hats are standing on a terrace.	2 well dressed men are outside	1
+Two men dressed jackets and hats are standing on a terrace.	3 women are outside	0
+Four children are standing to pose for a photo.	Four children are posing for a photo.	1
+Four children are standing to pose for a photo.	Four adults are standing to pose for a photo.	0
+A surfer looks behind him to see the next wave.	A surfer stays attentive to his surroundings.	1
+A surfer looks behind him to see the next wave.	A surfer standing on the beach next to his board.	0
+A group of people in orange life vests are boarding rafts in the arctic.	The life vests are red.	0
+A group of people in orange life vests are boarding rafts in the arctic.	There are people.	1
+A group of four kids stand in front of a statue of a large animal.	the kids are seated	0
+A group of four kids stand in front of a statue of a large animal.	four kids standing	1
+a kid doing tricks on a skateboard on a bridge.	a kid is skateboarding	1
+a kid doing tricks on a skateboard on a bridge.	a kid is inside	0
+A dog with a blue collar plays ball outside.	a dog is on the couch	0
+A dog with a blue collar plays ball outside.	a dog is outside	1
+Four dirty and barefooted children.	four children have dirty feet.	1
+Four dirty and barefooted children.	four kids won awards for 'cleanest feet'	0
+A man is surfing in a bodysuit in beautiful blue water.	A man in a business suit is heading to a board meeting.	0
+A man is surfing in a bodysuit in beautiful blue water.	On the beautiful blue water there is a man in a bodysuit surfing.	1
